@@ -1,119 +1,134 @@
-Chaitrali Waikar
-Web Developer
-🇮🇳 Mumbai, India • 📧 chaitraliwaikar05@gmail.com • 🔗 LinkedIn • 🌐 Portfolio • 💻 GitHub
-Passionate web developer and Computer Engineering student with hands-on experience in full-stack development, hackathons, and sustainability-driven tech projects. Skilled in building responsive web apps using HTML, CSS, JavaScript, React, Node.js, and SQL. Strong interest in open source, AI/ML, and impactful solutions.
-About Me
-Hello! I'm Chaitrali Waikar, a web developer passionate about creating clean, responsive, and user-focused applications. I've worked on real hackathon projects, full-stack prototypes, and practical web apps using HTML, CSS, JavaScript, React, Node.js, and SQL.
-I'm constantly improving my skills, turning prototypes into polished solutions, and learning how to build truly scalable, production-ready systems. I love collaborating, solving real-world problems, and growing with every project I build.
-Skills
-Frontend
+# Chaitrali Waikar  
+**Web Developer**  
 
-HTML
-CSS
-JavaScript
-React
+🇮🇳 Mumbai, India  
+📧 [chaitraliwaikar05@gmail.com](mailto:chaitraliwaikar05@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/chaitrali-waiikar-5a482b282)  
+🌐 [Portfolio](https://portfolio-8dic.vercel.app/)  
+💻 [GitHub](https://github.com/Chaitrali-Waikar)
 
-Backend & Languages
+Passionate full-stack web developer and Computer Engineering student (AI/ML specialization) with hands-on experience in building responsive web applications, hackathons, and sustainability-focused tech projects.
 
-Node.js
-Express.js
-Flask
-Python
-Java
+---
 
-Databases & Tools
+## About Me
 
-SQL (MySQL)
-Firebase
-MongoDB
-JDBC
-Git
-APIs
-Java Swing
+Hello! I'm Chaitrali, a web developer who loves creating clean, user-friendly, and impactful applications.  
+I enjoy turning ideas into working prototypes → polished products while constantly learning modern web development practices and scalable system design.
 
-Machine Learning
+Currently exploring: **MERN stack**, real-time applications, AI integration in web apps, and clean code architecture.
 
-Python
-Jupyter
-CNN
-Regression Models
-Google Gemini API
-scikit-learn
-TensorFlow
+---
 
-Projects
-SkillDuels (Ongoing)
-Gamified web platform promoting competitive learning with student challenges, quizzes, and skill-based games. Features real-time multiplayer.
-Tech Stack: MERN (MongoDB, Express, React, Node.js), Socket.io
-View Details on Portfolio
-Money Wise (2024)
-AI-powered multi-agent web app to improve financial literacy and manage budgets.
-Tech Stack: Flask, HTML/CSS, Google Generative AI API • Deployed on Render
-View Details on Portfolio
-Meal Bridge (2024)
-Web app connecting surplus food donors to nearby NGOs and individuals for efficient distribution and reducing food waste.
-Tech Stack: HTML, CSS, JavaScript (Backend in progress)
-View Details on Portfolio
-Real-time Chat App
-React frontend + lightweight vanilla JS client powered by a single backend with REST API and real-time features.
-Tech Stack: React, Vanilla JS, Node.js, Express, Socket.IO
-View Details on Portfolio
-Virtual Banking System (2023)
-Secure desktop banking application with user registration, account management, transactions, balance checks, and real-time passbook.
-Tech Stack: Java Swing (UI), JDBC, MySQL
-View Details on Portfolio
-AIML Projects (2025)
-Collection of AI/ML projects:
+## 🛠️ Skills
 
-Water Shortage Risk Prediction (Linear Regression)
-Water Usage Prediction (Logistic Regression)
-Potato Leaf Disease Detection (CNN for image classification)
-Tweet Generator Agent (Google Gemini API with ipywidgets UI)
-Tech Stack: Python, Jupyter, TensorFlow, scikit-learn
-View Details on Portfolio
+### Frontend
+- HTML5 • CSS3 • JavaScript (ES6+)
+- React
 
-API Practice Projects (2025)
-Vanilla JS apps using Fetch API and public APIs (e.g., OpenWeatherMap, exchangerate-api.com). Features responsive design, animations, and tabbed interface. Hosted on GitHub Pages.
-Aarambh (Hackathon - Code Unnati 2025)
-Web-based habit tracker.
-Tech Stack: HTML/CSS/JS + Firebase
-Experience
-IBM SkillsBuild Internship (with CSRBOX)
-Summer 2024
+### Backend & Languages
+- Node.js • Express.js
+- Python • Flask
+- Java
 
-Completed training in data analytics via assignments and masterclasses.
-Gained expertise in data handling, visualization, and interpretation.
+### Databases & Tools
+- SQL (MySQL)
+- Firebase
+- MongoDB
+- JDBC
+- Git & GitHub
+- REST APIs • Fetch API
 
-Model Business Summit – Lokmanya Tilak College of Engineering
-2023
+### Machine Learning / AI
+- Python • Jupyter Notebook
+- scikit-learn • TensorFlow
+- CNN • Linear & Logistic Regression
+- Google Gemini API
 
-Collaborated in a simulated startup environment focused on sustainability and innovation.
+---
 
-Hackathon Participation
-2025
+## 🚀 Projects
 
-Code Unnati: Built Aarambh (habit tracker)
-Don Bosco Institute of Technology: Developed full-stack prototypes collaboratively
+### SkillDuels *(Ongoing)*
+Gamified learning platform with real-time student challenges & quizzes  
+**Tech:** MERN + Socket.io
 
-Education
-Bachelor of Engineering in Computer Science (AI/ML Specialization)
-University of Mumbai • Sep 2023 – May 2027
+### Money Wise *(2024)*
+AI-powered financial literacy & budget management web app  
+**Tech:** Flask + Google Generative AI + HTML/CSS • Deployed on Render
 
-GPA: 8.2
-Relevant Coursework: Data Structures, Algorithms, Database Systems, AI/ML Fundamentals
+### Meal Bridge *(2024)*
+Connects food donors with NGOs & people in need to reduce food waste  
+**Tech:** HTML • CSS • JavaScript (Backend in progress)
 
-Certifications & Additional Info
+### Real-time Chat Application
+Modern chat app with real-time messaging  
+**Tech:** React + Node.js + Express + Socket.IO
 
-Code in Place – Stanford University (Intro to Python & Problem-Solving)
-IBM SkillsBuild Data Analytics Certification (via CSRBOX)
+### Virtual Banking System *(2023)*
+Secure desktop banking app with transactions & passbook  
+**Tech:** Java Swing + JDBC + MySQL
 
-Languages: English • Hindi • Marathi
-Activities: Hackathon Participant • Model Business Summit Participant
-Connect With Me
+### AI/ML Projects *(2025)*
+- Water Shortage Risk Prediction (Linear Regression)  
+- Water Usage Forecasting (Logistic Regression)  
+- Potato Leaf Disease Detection (CNN)  
+- Tweet Generator Agent (Google Gemini API + ipywidgets)
 
-📧 Email: chaitraliwaikar05@gmail.com
-💼 LinkedIn: linkedin.com/in/chaitrali-waiikar-5a482b282
-🌐 Portfolio: portfolio-8dic.vercel.app
-💻 GitHub: github.com/Chaitrali-Waikar
+### API Practice Projects *(2025)*
+Weather • Currency Converter • Responsive designs with public APIs  
+**Tech:** Vanilla JS + Fetch API • Hosted on GitHub Pages
 
-Feel free to reach out for collaborations or just to chat about tech!
+### Aarambh – Habit Tracker *(Hackathon 2025)*
+Simple web-based habit building tool  
+**Tech:** HTML • CSS • JS + Firebase
+
+---
+
+## 💼 Experience
+
+**IBM SkillsBuild Internship (with CSRBOX)**  
+*Summer 2024*  
+Data Analytics training – assignments, visualization & interpretation
+
+**Model Business Summit – Lokmanya Tilak College of Engineering**  
+*2023*  
+Simulated startup environment focused on sustainability & innovation
+
+**Hackathons** *(2025)*  
+• Code Unnati – Aarambh (Habit Tracker)  
+• Don Bosco Institute of Technology – Full-stack prototypes
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science (AI/ML Specialization)**  
+University of Mumbai  
+Sep 2023 – May 2027  
+GPA: 8.2/10
+
+---
+
+## 🏆 Certifications & Activities
+
+- Code in Place – Stanford University (Python & Problem Solving)
+- IBM SkillsBuild Data Analytics Certification
+- Multiple hackathon participant
+- Model Business Summit participant
+
+**Languages**  
+English • Hindi • Marathi
+
+---
+
+## 📬 Let's Connect!
+
+Feel free to reach out for collaboration, project discussions, or just to talk tech! 😊
+
+💌 [Email](mailto:chaitraliwaikar05@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/chaitrali-waiikar-5a482b282)  
+🌐 [Portfolio](https://portfolio-8dic.vercel.app/)  
+🐱 [GitHub](https://github.com/Chaitrali-Waikar)
+
+Happy coding! 🚀
