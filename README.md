@@ -120,15 +120,3 @@ GPA: 8.2/10
 **Languages**  
 English • Hindi • Marathi
 
----
-
-## 📬 Let's Connect!
-
-Feel free to reach out for collaboration, project discussions, or just to talk tech! 😊
-
-💌 [Email](mailto:chaitraliwaikar05@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/chaitrali-waiikar-5a482b282)  
-🌐 [Portfolio](https://portfolio-8dic.vercel.app/)  
-🐱 [GitHub](https://github.com/Chaitrali-Waikar)
-
-Happy coding! 🚀
