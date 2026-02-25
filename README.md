@@ -106,7 +106,7 @@ Simulated startup environment focused on sustainability & innovation
 **B.E. Computer Science (AI/ML Specialization)**  
 University of Mumbai  
 Sep 2023 – May 2027  
-GPA: 8.2/10
+GPA: 8.4/10
 
 ---
 
