@@ -3,9 +3,9 @@
 
 🇮🇳 Mumbai, India  
 📧 [chaitraliwaikar05@gmail.com](mailto:chaitraliwaikar05@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/chaitrali-waiikar-5a482b282)  
-🌐 [Portfolio](https://portfolio-8dic.vercel.app/)  
-💻 [GitHub](https://github.com/Chaitrali-Waikar)
+🔗 [LinkedIn](https://www.linkedin.com/in/chaitrali-waikar-5a482b282/)  
+🌐 [Portfolio](https://portfolio-2zds.vercel.app/)  
+💻 [GitHub](https://github.com/ChaitraliWaikar)
 
 Passionate full-stack web developer and Computer Engineering student (AI/ML specialization) with hands-on experience in building responsive web applications, hackathons, and sustainability-focused tech projects.
 
